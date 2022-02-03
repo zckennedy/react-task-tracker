@@ -1,3 +1,6 @@
+This React app was made following the following tutorial: https://www.youtube.com/watch?v=w7ejDZ8SWv8&list=WL&index=66&t=2725s
+I am in the process of teaching myself React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
